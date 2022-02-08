@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yousaf. I'm taking CS 101 at Bilkent at the moment. 👋
 
 <!--
 **yousafabaseen/yousafabaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
